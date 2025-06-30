@@ -108,21 +108,9 @@ customer-churn-ann/
 
 ---
 
-## 🤝 Acknowledgements
 
-* Inspired by real-world churn prediction use-cases in the banking industry
-* Dataset based on Kaggle's ["Churn Modelling"](https://www.kaggle.com/datasets/shubhendra7/customer-churn-prediction) dataset
 
----
 
-## 📬 Contact
-
-**Nishan Chakraborty**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-🐙 [GitHub](https://github.com/your-username)
-
----
 
 ⭐ If you found this project useful, feel free to give it a star!
 
