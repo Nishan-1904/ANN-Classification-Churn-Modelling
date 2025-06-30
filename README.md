@@ -80,6 +80,8 @@ The dataset consists of 10,000 entries of bank customers with the following feat
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/8763c8ba-8142-49ee-9b3d-8359b277618e)
+![image](https://github.com/user-attachments/assets/02f8b4af-4bfe-4cd7-a068-47e617f0e32e)
+
 
 
 ---
